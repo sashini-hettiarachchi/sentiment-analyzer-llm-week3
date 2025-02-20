@@ -35,3 +35,7 @@
     ```bash
     npm start
     ```
+
+3. **Frontend App Screenshot**
+
+<img width="1473" alt="image" src="https://github.com/user-attachments/assets/33471837-8af2-47b0-bb95-dd08deaca173" />
